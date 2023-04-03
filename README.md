@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pieter
+### Hi I'm Pieter
 
 ## I am studying software engineering at Codam Coding College
 
